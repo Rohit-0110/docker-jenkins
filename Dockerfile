@@ -1,2 +1,2 @@
 FROM httpd
-COPY . /usr/local/apache2/webapp
+COPY . /usr/local/apache2/
