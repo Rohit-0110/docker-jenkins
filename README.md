@@ -21,3 +21,5 @@ Final ScreenShot of Pipeline
 ![Screenshot from 2022-12-29 21-51-36](https://user-images.githubusercontent.com/63051513/209981066-9f07d981-dbe1-430c-8340-3ad0e0f8eb01.png)
 
 Docker-Image Link: https://hub.docker.com/repository/docker/vishwakarmarohit750/mywebapp
+
+To Push the Image use: docker push vishwakarmarohit750/mywebapp:1.0
