@@ -9,7 +9,7 @@ Logs!
 
 ![Screenshot from 2022-12-29 21-56-45](https://user-images.githubusercontent.com/63051513/209981765-60d362d2-466c-4ab8-895b-4ccddf6dc501.png)
 
-[Screenshot from 2022-12-29 21-57-08](https://user-images.githubusercontent.com/63051513/209981736-f245e0d3-fe4d-4539-9ee5-036bccf0b83c.png)
+![Screenshot from 2022-12-29 21-57-08](https://user-images.githubusercontent.com/63051513/209981736-f245e0d3-fe4d-4539-9ee5-036bccf0b83c.png)
 
 ![Screenshot from 2022-12-29 21-57-21](https://user-images.githubusercontent.com/63051513/209981719-0b2a3c70-ca61-441d-9b84-b7cf911b4497.png)
 
