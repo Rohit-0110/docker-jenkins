@@ -22,4 +22,4 @@ Final ScreenShot of Pipeline
 
 Docker-Image Link: https://hub.docker.com/repository/docker/vishwakarmarohit750/mywebapp
 
-To Push the Image use: docker push vishwakarmarohit750/mywebapp:1.0
+To Pull the Image use: docker pull vishwakarmarohit750/mywebapp:1.0
